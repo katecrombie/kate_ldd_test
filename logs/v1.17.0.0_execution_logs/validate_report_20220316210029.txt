@@ -3,13 +3,13 @@ PDS Validate Tool Report
 
 Configuration:
    Version                       2.1.4
-   Date                          2022-03-16T20:58:28Z
+   Date                          2022-03-16T21:00:31Z
 
 Parameters:
-   Targets                       [file:/home/runner/work/kate_ldd_test/kate_ldd_test/build/development/6cfc87f00f95795ea3f2e52ef8b6d7e58c7cc501/1.17.0.0/PDS4_EXAMPLE_1H00_1000.xml]
+   Targets                       [file:/home/runner/work/kate_ldd_test/kate_ldd_test/build/development/a0960ba1920121b84caf4c906d30501c6021d441/1.17.0.0/PDS4_EXAMPLE_1H00_1000.xml]
    Rule Type                     pds4.label
-   User Specified Schemas        [file:/home/runner/work/kate_ldd_test/kate_ldd_test/build/development/6cfc87f00f95795ea3f2e52ef8b6d7e58c7cc501/1.17.0.0/PDS4_EXAMPLE_1H00_1000.xsd, file:/tmp/PDS4_PDS_1H00.xsd]
-   User Specified Schematrons    [file:/home/runner/work/kate_ldd_test/kate_ldd_test/build/development/6cfc87f00f95795ea3f2e52ef8b6d7e58c7cc501/1.17.0.0/PDS4_EXAMPLE_1H00_1000.sch, file:/tmp/PDS4_PDS_1H00.sch]
+   User Specified Schemas        [file:/home/runner/work/kate_ldd_test/kate_ldd_test/build/development/a0960ba1920121b84caf4c906d30501c6021d441/1.17.0.0/PDS4_EXAMPLE_1H00_1000.xsd, file:/tmp/PDS4_PDS_1H00.xsd]
+   User Specified Schematrons    [file:/home/runner/work/kate_ldd_test/kate_ldd_test/build/development/a0960ba1920121b84caf4c906d30501c6021d441/1.17.0.0/PDS4_EXAMPLE_1H00_1000.sch, file:/tmp/PDS4_PDS_1H00.sch]
    Severity Level                WARNING
    Recurse Directories           true
    File Filters Used             [*.xml, *.XML]
@@ -22,7 +22,7 @@ Parameters:
 
 Product Level Validation Results
 
-  PASS: file:/home/runner/work/kate_ldd_test/kate_ldd_test/build/development/6cfc87f00f95795ea3f2e52ef8b6d7e58c7cc501/1.17.0.0/PDS4_EXAMPLE_1H00_1000.xml
+  PASS: file:/home/runner/work/kate_ldd_test/kate_ldd_test/build/development/a0960ba1920121b84caf4c906d30501c6021d441/1.17.0.0/PDS4_EXAMPLE_1H00_1000.xml
         1 product validation(s) completed
 
 Summary:
@@ -42,5 +42,5 @@ Summary:
 
 
 End of Report
-Completed execution in 4717 ms
+Completed execution in 5593 ms
 
